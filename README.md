@@ -1,1 +1,1 @@
-# Application of Graph se
+# Application of Graph segmenta
