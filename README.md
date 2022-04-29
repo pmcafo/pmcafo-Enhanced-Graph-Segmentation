@@ -1,1 +1,1 @@
-# Application of Graph segmenta
+# Application of Graph segmentation alg
