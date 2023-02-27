@@ -6,4 +6,4 @@ If you use this software for research purposes, you should cite Efficient Graph-
 
 This code is modified by the current owner pmcafo, motivated to make this algorithm compatible with different image formats. Furthermore, OpenCV is one of the most widely used computer vision libraries, which enhances the algorithm's flexibility.
 
-Aside from this, as robot vision platforms rarely use raw image formats(.ppm, .pgm etc) and more often use
+Aside from this, as robot vision platforms rarely use raw image formats(.ppm, .pgm etc) and more often use compressed
