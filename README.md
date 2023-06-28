@@ -8,4 +8,6 @@ This code is modified by the current owner pmcafo, motivated to make this algori
 
 Aside from this, as robot vision platforms rarely use raw image formats(.ppm, .pgm etc) and more often use compressed image formats (say .jpg), this algorithm is integrated with robot platform ROS(Robot Operating System).
 
-To run this version of Software, dependencies of OpenCV and cmake must be installe
+To run this version of Software, dependencies of OpenCV and cmake must be installed.
+
+Compi
