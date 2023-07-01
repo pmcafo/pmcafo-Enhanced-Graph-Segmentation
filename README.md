@@ -10,4 +10,4 @@ Aside from this, as robot vision platforms rarely use raw image formats(.ppm, .p
 
 To run this version of Software, dependencies of OpenCV and cmake must be installed.
 
-Compi
+Compilat
