@@ -12,4 +12,4 @@ To run this version of Software, dependencies of OpenCV and cmake must be instal
 
 Compilation Instructions:
 
-a. cd Gra
+a. cd GraphSegment
