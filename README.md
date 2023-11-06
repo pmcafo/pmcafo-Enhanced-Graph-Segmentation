@@ -14,4 +14,4 @@ Compilation Instructions:
 
 a. cd GraphSegmentation (folder_ containing_GraphSegmentation_source)
 
-b. mkdir
+b. mkdir buil
