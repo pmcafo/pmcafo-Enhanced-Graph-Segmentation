@@ -18,4 +18,5 @@ b. mkdir build
 
 c. cmake ..
 
-d. mak
+d. make
+
