@@ -20,4 +20,4 @@ c. cmake ..
 
 d. make
 
-Your binary wil
+Your binary will be i
