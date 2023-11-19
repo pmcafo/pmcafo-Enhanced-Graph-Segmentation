@@ -20,4 +20,4 @@ c. cmake ..
 
 d. make
 
-Your binary will be i
+Your binary will be in bui
