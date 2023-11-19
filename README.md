@@ -20,4 +20,4 @@ c. cmake ..
 
 d. make
 
-Your binary will be in bui
+Your binary will be in build/apps.
