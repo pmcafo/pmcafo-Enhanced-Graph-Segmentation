@@ -20,4 +20,4 @@ c. cmake ..
 
 d. make
 
-Your binary will be in build/apps. Exam
+Your binary will be in build/apps. Example ima
