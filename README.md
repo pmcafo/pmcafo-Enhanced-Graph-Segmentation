@@ -20,4 +20,4 @@ c. cmake ..
 
 d. make
 
-Your binary will be in build/apps. Example image has been provided wi
+Your binary will be in build/apps. Example image has been provided with this
