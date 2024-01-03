@@ -22,4 +22,4 @@ d. make
 
 Your binary will be in build/apps. Example image has been provided with this code in img folder to test quickly.
 
-Exe
+Execution
