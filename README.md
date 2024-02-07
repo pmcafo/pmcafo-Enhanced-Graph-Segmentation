@@ -24,4 +24,4 @@ Your binary will be in build/apps. Example image has been provided with this cod
 
 Execution command
 
-a) ./g
+a) ./graph_seg
