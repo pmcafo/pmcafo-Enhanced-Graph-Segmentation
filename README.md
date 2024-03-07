@@ -24,4 +24,6 @@ Your binary will be in build/apps. Example image has been provided with this cod
 
 Execution command
 
-a) ./graph_segmentation ../../img/339
+a) ./graph_segmentation ../../img/339.jpg
+
+ 
