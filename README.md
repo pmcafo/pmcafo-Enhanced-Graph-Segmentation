@@ -26,4 +26,4 @@ Execution command
 
 a) ./graph_segmentation ../../img/339.jpg
 
- ./(n
+ ./(name_
