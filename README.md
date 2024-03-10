@@ -26,4 +26,4 @@ Execution command
 
 a) ./graph_segmentation ../../img/339.jpg
 
- ./(name_
+ ./(name_of_bina
